@@ -1,4 +1,4 @@
-# LDATopicModeling
+# LDA Topic Modeling Method
  Implemented the latent Dirichlet allocation (LDA) model to generate a corpus from a given set of parameters.  
 - Built a function lda_gen() that takes four arguments:  
   (1) vocabulary - list (of length V ) of strings  
